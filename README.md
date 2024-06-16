@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 <h3 align="center">Hi 👋, </h1>
 <h1 align="center">I'm Chamila Warathenna </h1>
-<h4 align="center">Consultant-ERP Solutions, Project Manager, Software Developer, Traveller, Mobile Photographer, Sinhalese, Free Thinker from Colombo - Sri Lanka, with 24+ years exposure in software development.</h1>
+<h4 align="center">Consultant-ERP Solutions, Project Manager, Software Developer from Colombo - Sri Lanka, with 24+ years exposure in software development.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc?username=chamila-warathenna&label=Profile%20views&color=0e75b6&style=flat" alt="chamila-warathenna" /> </p>
 
 <!--
